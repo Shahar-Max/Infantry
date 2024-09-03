@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Desktop\\Unity\\Infantry\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A04CB2D-EB31-6A38-1C6C-2FA23402C2A7}|FPSAnimationFramework.Runtime.csproj|c:\\users\\admin\\desktop\\unity\\infantry\\assets\\kinemation\\fpsanimationframework\\runtime\\core\\fpsbonecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A04CB2D-EB31-6A38-1C6C-2FA23402C2A7}|FPSAnimationFramework.Runtime.csproj|solutionrelative:assets\\kinemation\\fpsanimationframework\\runtime\\core\\fpsbonecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{996051C5-D9D9-0569-E575-0C993392F9D1}|KAnimationCore.Runtime.csproj|c:\\users\\admin\\desktop\\unity\\infantry\\assets\\kinemation\\kanimationcore\\runtime\\input\\userinputconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{996051C5-D9D9-0569-E575-0C993392F9D1}|KAnimationCore.Runtime.csproj|solutionrelative:assets\\kinemation\\kanimationcore\\runtime\\input\\userinputconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{996051C5-D9D9-0569-E575-0C993392F9D1}|KAnimationCore.Runtime.csproj|C:\\Users\\ADMIN\\Desktop\\Unity\\Infantry\\assets\\kinemation\\kanimationcore\\runtime\\input\\userinputcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{996051C5-D9D9-0569-E575-0C993392F9D1}|KAnimationCore.Runtime.csproj|solutionrelative:assets\\kinemation\\kanimationcore\\runtime\\input\\userinputcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FPSBoneController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Unity\\Infantry\\Assets\\KINEMATION\\FPSAnimationFramework\\Runtime\\Core\\FPSBoneController.cs",
+              "RelativeDocumentMoniker": "Assets\\KINEMATION\\FPSAnimationFramework\\Runtime\\Core\\FPSBoneController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Unity\\Infantry\\Assets\\KINEMATION\\FPSAnimationFramework\\Runtime\\Core\\FPSBoneController.cs*",
+              "RelativeToolTip": "Assets\\KINEMATION\\FPSAnimationFramework\\Runtime\\Core\\FPSBoneController.cs*",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBQAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T10:47:06.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserInputConfig.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Unity\\Infantry\\Assets\\KINEMATION\\KAnimationCore\\Runtime\\Input\\UserInputConfig.cs",
+              "RelativeDocumentMoniker": "Assets\\KINEMATION\\KAnimationCore\\Runtime\\Input\\UserInputConfig.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Unity\\Infantry\\Assets\\KINEMATION\\KAnimationCore\\Runtime\\Input\\UserInputConfig.cs",
+              "RelativeToolTip": "Assets\\KINEMATION\\KAnimationCore\\Runtime\\Input\\UserInputConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T10:42:57.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserInputController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Unity\\Infantry\\Assets\\KINEMATION\\KAnimationCore\\Runtime\\Input\\UserInputController.cs",
+              "RelativeDocumentMoniker": "Assets\\KINEMATION\\KAnimationCore\\Runtime\\Input\\UserInputController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Unity\\Infantry\\Assets\\KINEMATION\\KAnimationCore\\Runtime\\Input\\UserInputController.cs",
+              "RelativeToolTip": "Assets\\KINEMATION\\KAnimationCore\\Runtime\\Input\\UserInputController.cs",
+              "ViewState": "AQIAAKMAAAAAAAAAAAAwwCAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T10:42:28.746Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
